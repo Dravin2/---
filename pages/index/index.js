@@ -11,7 +11,7 @@ Page({
   },
   onLoad: function () {
     wx.setNavigationBarTitle({
-      title: '贝壳小工具-计算器'
+      title: '计算器'
     })
   },
   //事件处理函数
